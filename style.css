@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.foto-profil {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+h1 {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+p {
+    margin: 5px 0;
+}
